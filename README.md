@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @apanderson89
-- 👀 I’m interested in building models, listening to music, and learning to code.
-- 🌱 I’m currently learning CSS, Java in NuCamp Bootcamp.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My Brother in law said I needed to change this cause it was just the Generic Welcome Read ME for Github. So that's what I did.
+
+I like Ramen, Building Models, Running N Scale Trains, Music, Guitar, Movies, and Coding.
+
+I teach a free coding workshop once a month.
 
 <!---
 apanderson89/apanderson89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
